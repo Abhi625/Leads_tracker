@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.1",
+    "name":"Leads_tracker",
+    "permissions":[
+        "tabs"
+    ],
+    "description":"save important tabs for future use",
+    "action": {
+        "default_popup": "index2.html",
+        "default_icon":"icon.png"
+    }
+}
